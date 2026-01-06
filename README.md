@@ -37,6 +37,13 @@ Software developer currently transitioning into Machine Learning through an inte
 - Features: Room booking, food ordering, automated billing
 - *Tech: Java, Swing, OOP, Serialization, File I/O, Exception Handling*
 
+### 🎮 **Tic-Tac-Toe Game – Web**
+**First Web Development Project | Interactive Browser Game**
+- Classic Tic-Tac-Toe implementation with clean UI
+- Built with HTML, CSS, and vanilla JavaScript
+- Features: Player vs Player mode, score tracking, responsive design
+- *Tech: HTML5, CSS3, JavaScript, Frontend Development*
+
 ### 🤖 **Machine Learning Internship @ Arch Technologies**
 **January 2026 - February 2026 | 8-Week Remote Program**
 - Hands-on training in machine learning fundamentals
@@ -63,7 +70,6 @@ Software developer currently transitioning into Machine Learning through an inte
 - **Location:** Sukkur, Sindh, Pakistan
 - **Status:** Actively building portfolio through academic projects and internships
 - **Career Path:** Transitioning from software development to specialized AI/ML engineering
-- **Network:** 200+ professional connections on LinkedIn
 
 ## 📫 Connect With Me
 <div align="center">
@@ -84,7 +90,6 @@ Software developer currently transitioning into Machine Learning through an inte
 ### **"Building robust software today, shaping intelligent systems tomorrow."**
 
 📍 *Sukkur, Sindh, Pakistan*  
-👨‍💻 *203+ LinkedIn Connections*  
 📧 *aad66784@gmail.com*  
 🎯 *Open to AI/ML Opportunities & Collaborations*
 
