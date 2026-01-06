@@ -17,7 +17,7 @@
 </div>
 
 ## 🎯 About Me
-Software developer currently transitioning into Machine Learning through an internship at Arch Technologies. Building a strong foundation in AI/ML while maintaining expertise in Java, C++, and full-stack development. Based in Mirpur Mathelo, Sindh, Pakistan.
+Software developer currently transitioning into Machine Learning through an internship at Arch Technologies. Building a strong foundation in AI/ML while maintaining expertise in Java, C++, and full-stack development. Based in Sukkur, Sindh, Pakistan.
 
 ## 🔧 Technical Stack
 | **Category** | **Skills** |
