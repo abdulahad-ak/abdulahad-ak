@@ -90,7 +90,7 @@ Software developer currently transitioning into Machine Learning through an inte
 ### **"Building robust software today, shaping intelligent systems tomorrow."**
 
 📍 *Sukkur, Sindh, Pakistan*  
-📧 *aad66784@gmail.com*  
+📧 *ahad66784@gmail.com*  
 🎯 *Open to AI/ML Opportunities & Collaborations*
 
 </div>
